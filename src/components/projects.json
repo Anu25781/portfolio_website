@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Myntra Clone",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Redux", "Css module", "Backend", "Bootsrap"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Todo-App",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Css modules", "Bootsrap"],
+    "demo": "https://anu25781.github.io/todoApp_react_version_3/",
+    "source": "https://github.com/Anu25781/todoApp_react_version_3/tree/todo-version-3  "
+  },
+  {
+    "title": "Bat-Ball-Stump Game",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS", "Javascript"],
+    "demo": "https://anu25781.github.io/cricket_game_js/",
+    "source": "https://github.com/Anu25781/cricket_game_js/tree/cricket-project"
+  },
+
+
+
+  {
+    "title": "Food delivery website",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS","Javascript", "Bootsrap"],
+    "demo": "https://anu25781.github.io/food_delivery_website/",
+    "source": "https://github.com/Anu25781/food_delivery_website/tree/food-delivery"
+  }
+]

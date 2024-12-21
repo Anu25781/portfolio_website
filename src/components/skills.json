@@ -1,0 +1,24 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "images/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "images/css.png"
+  },
+  {
+    "title": "Javascript",
+    "imageSrc": "images/javascript.png"
+  },
+  {
+     "title": "React",
+    "imageSrc": "images/react1.png"
+   
+  },
+  {
+    "title": "Next js",
+    "imageSrc": "images/nextjs1.png"
+  }
+ 
+]
